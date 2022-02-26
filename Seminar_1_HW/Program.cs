@@ -74,6 +74,6 @@ int Start = N-(N-1);
 while (Start <= N)
 {
         if (Start % 2 == 0)
-    Console.WriteLine(Start);
+    Console.Write(Start + " "); // или чтоб в столбик Console.WriteLine(Start)
     Start++;
 }
