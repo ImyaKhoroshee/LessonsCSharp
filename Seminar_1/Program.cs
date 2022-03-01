@@ -65,7 +65,7 @@ else
 */
 
 // SWITCH
-
+/*
 Console.Write("Enter the integer: ");
 int week_day = Convert.ToInt32(Console.ReadLine());
 
@@ -112,4 +112,5 @@ while (neg_N <= N)
     neg_N++;
 }
 */
+
 
