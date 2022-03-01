@@ -38,7 +38,6 @@ else
     }
 if (MaximumNumber > c)
 {
-    MaximumNumber = MaximumNumber;
     Console.Write("MaxNumber is: ");
     Console.Write(MaximumNumber);
 }
