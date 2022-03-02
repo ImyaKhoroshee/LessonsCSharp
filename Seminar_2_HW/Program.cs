@@ -43,11 +43,11 @@ FindThirdDigit(number);
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую 
 // день недели, и проверяет, является ли этот день выходным.
 
+
+// Option 1
 /*
 Console.Write("Enter the integer: ");
 int week_day = Convert.ToInt32(Console.ReadLine());
-
-// Option 1
 
 switch (week_day)
 {
@@ -94,6 +94,7 @@ switch (week_day)
 }
 */
 
+/*
 // Option 2
 
 void WeekCheck (int number)
@@ -112,3 +113,4 @@ Console.Write("Today is day off, right? Enter the integer from 1 to 7, correspon
 int number = Convert.ToInt32(Console.ReadLine());
 
 WeekCheck (number);
+*/
