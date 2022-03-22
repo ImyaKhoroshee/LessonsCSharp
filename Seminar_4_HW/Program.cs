@@ -3,13 +3,13 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-int PowerOfNumbers (int firstnumber, int secondnumber)  // Создаю метод для возведения в натуралью (т.е. secondnumber>=1) степень. Метод принимает 2 числа (аргумента) и возвращает результат вычислений
+int PowerOfNumbers (int firstnumber, int secondnumber)  // Создаю метод для возведения в натуральнyю (т.е. secondnumber>=1) степень. Метод принимает 2 числа (аргумента) и возвращает результат вычислений
 {
     if (secondnumber == 1) // a^n = a
     return firstnumber; // Возвращаю первый аргумент. Если действие в теле одно, то можно не брать в фигурные скобки
     
     int result = firstnumber; // Создаю переменную, куда буду писать результат вычислений.
-    for (int i = 2; i<=secondnumber; i++) // Создаю цикс, присваиваю 2 индексу (0 по условию не м.б., для 1 - см. выше)
+    for (int i = 2; i<=secondnumber; i++) // Создаю цикл, присваиваю 2 индексу (0 по условию не м.б., для 1 - см. выше)
     {
         result = result*firstnumber; // произвожу вычисление
     }
@@ -66,9 +66,9 @@ Console.Write("The sum of the entered number: " + TheSum(usernumber));
 void Fillarray(int [] digits)   // Метод принимает, но не возвращает
 {
     int length = digits.Length;     // Присваиваю переменной length длину массива, т.е. 8
-    for (int i = 0; i < length; i++) // Создаю цикл для того, чтобы пользователь последовательно вводил свои цисла в массив
+    for (int i = 0; i < length; i++) // Создаю цикл для того, чтобы пользователь последовательно вводил свои числа в массив
     {
-        Console.Write("Type an element for index " + i + ": "); // Прошу пользователя вводить цисла
+        Console.Write("Type an element for index " + i + ": "); // Прошу пользователя вводить числа
         digits[i] = Convert.ToInt32(Console.ReadLine());    // Присваиваю число для каждого индекса
     }
     
