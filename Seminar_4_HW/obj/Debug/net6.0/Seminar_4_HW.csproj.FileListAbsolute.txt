@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\Seminar_4_HW.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\Seminar_4_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\Seminar_4_HW.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\Seminar_4_HW.AssemblyInfo.cs
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\Seminar_4_HW.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\bin\Debug\net6.0\Seminar_4_HW.exe
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\bin\Debug\net6.0\Seminar_4_HW.deps.json
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\bin\Debug\net6.0\Seminar_4_HW.runtimeconfig.json
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\bin\Debug\net6.0\Seminar_4_HW.dll
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\bin\Debug\net6.0\Seminar_4_HW.pdb
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\Seminar_4_HW.dll
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\refint\Seminar_4_HW.dll
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\Seminar_4_HW.pdb
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\Seminar_4_HW.genruntimeconfig.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_4_HW\obj\Debug\net6.0\ref\Seminar_4_HW.dll
