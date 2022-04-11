@@ -9,7 +9,7 @@
 // 1 2 4 7
 // 2 3 5 9
 // 2 4 4 8
-/*
+
 int [,] ArrayFillAndPrint(int m, int n)
 {
     int [,] array = new int [m, n];
@@ -118,7 +118,7 @@ void FindIndexOfElement (int [] array, int value)
 
 int[,] matrix = ArrayFillAndPrint(6, 4);
 FindIndexOfElement(ElementsSum(matrix), DetermineARowWithMinElement(ElementsSum (matrix)));
-*/
+
 // Задача 3: Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. Напишите 
 // программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
 // Программу на создание массива в отдельном нет ли существующих элементов
@@ -198,7 +198,7 @@ PrintThreeDimRandArr(CreatePrintThreeDimensionRandomArray(a));
 // 12 13 14 5
 // 11 16 15 6
 // 10 9 8 7
-/*
+
 int [,] SpiralArray (int a, int b) 
 {
     int numbersforarray = 1; // отсчет от 1-цы
@@ -298,4 +298,3 @@ if (a == b)
 PrintArray(SpiralArray(a, b));
 else
 Console.Write("It is not possible to create such array!");
-*/
