@@ -139,9 +139,9 @@ bool CheckUnique (int a, int i, int j, int k, int [,,] array)
             for (int ka = 0; ka < array.GetLength(2); ka++)
             {
                 if (a == array[ia, ja, ka])
-                index++;
-                if (index == ia*ja*ka)
                 return false;
+                if (index == (ia+1)*(ja+1)*(ka+1))
+                index++;
             }
         }
     }
@@ -163,9 +163,8 @@ int [,,] CreatePrintThreeDimensionRandomArray (int depthheightwidth)
                 { 
                     a = new Random().Next(10, 100);
                 }
-                threeDimArray [i, j, k] = a;
+               threeDimArray [i, j, k] = a;
             }
-            Console.WriteLine();
         }
     }
     return threeDimArray;
