@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\bin\Debug\net6.0\Seminar_8.exe
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\bin\Debug\net6.0\Seminar_8.deps.json
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\bin\Debug\net6.0\Seminar_8.runtimeconfig.json
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\bin\Debug\net6.0\Seminar_8.dll
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\bin\Debug\net6.0\Seminar_8.pdb
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\Seminar_8.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\Seminar_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\Seminar_8.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\Seminar_8.AssemblyInfo.cs
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\Seminar_8.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\Seminar_8.dll
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\refint\Seminar_8.dll
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\Seminar_8.pdb
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\Seminar_8.genruntimeconfig.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_8\obj\Debug\net6.0\ref\Seminar_8.dll
