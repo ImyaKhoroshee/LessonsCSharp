@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\bin\Debug\net6.0\Seminar_10_HW.exe
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\bin\Debug\net6.0\Seminar_10_HW.deps.json
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\bin\Debug\net6.0\Seminar_10_HW.runtimeconfig.json
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\bin\Debug\net6.0\Seminar_10_HW.dll
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\bin\Debug\net6.0\Seminar_10_HW.pdb
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\Seminar_10_HW.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\Seminar_10_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\Seminar_10_HW.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\Seminar_10_HW.AssemblyInfo.cs
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\Seminar_10_HW.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\Seminar_10_HW.dll
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\refint\Seminar_10_HW.dll
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\Seminar_10_HW.pdb
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\Seminar_10_HW.genruntimeconfig.cache
+C:\Users\Павел\Desktop\SeminarC#\Seminar_10_HW\obj\Debug\net6.0\ref\Seminar_10_HW.dll
