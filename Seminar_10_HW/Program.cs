@@ -16,7 +16,8 @@
 
 // выходные данные:
 // 1, 7, 0, 1
-int [] FillandFrintInfoArray (int lenghtforinfo)
+
+int [] FillandPrintInfoArray (int lenghtforinfo)
 {
     int [] usersinfo = new int [lenghtforinfo];
     
@@ -37,7 +38,7 @@ int [] FillandFrintInfoArray (int lenghtforinfo)
     return usersinfo;
 }
 
-int [] FillandFrintDataArray (int lenghtfordata)
+int [] FillandPrintDataArray (int lenghtfordata)
 {
     int [] usersdata = new int [lenghtfordata];
     
@@ -58,8 +59,7 @@ int [] FillandFrintDataArray (int lenghtfordata)
     return usersdata;
 }
 
-
-void BinaryToDecimal (int [] info, int [] data)
+void BinaryToDecimal (int [] data, int [] info)
 {
     int offset = 0;
     for (int i = 0; i < info.Length; i++)
@@ -71,27 +71,25 @@ void BinaryToDecimal (int [] info, int [] data)
             binaryString += data[j + offset].ToString();
             else
             Console.WriteLine("Error: out of range array Data(" + data.Length.ToString() + " / " + (j + offset + 1).ToString() + "). ");
-            return;
         }
-    }
+    
         try
         {
             int val = Convert.ToInt32(binaryString, 2);
             offset += info[i];
-            Console.WriteLine("Value: {0}, binary: {1}", val, binaryString);
+            Console.WriteLine("Value: {0}, binary: {1}", val, binaryString); // Еще один вариант консольного вывода. Плейсхолдеры.
         }                
+        
         catch (Exception e)
         {
             Console.WriteLine("Error: Converting bin to int. " + e.Message);
-            return;
         }
-    }              
+    }             
 }
-
-Console.Write("Enter the size for info array: ");
-int length = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Enter the the size for data array: ");
 int secondlength = Convert.ToInt32(Console.ReadLine());
+Console.Write("Enter the size for info array: ");
+int length = Convert.ToInt32(Console.ReadLine());
 
-BinaryToDecimal(FillandFrintInfoArray(length), FillandFrintDataArray(secondlength));
+BinaryToDecimal(FillandPrintDataArray(secondlength), FillandPrintInfoArray(length));
